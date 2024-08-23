@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <header>GARCIAFLIX</header>
+    <header>ACLARA</header>
 
     <section class="chamada">
         <div class="chamada-texto">
